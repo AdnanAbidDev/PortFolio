@@ -55,8 +55,8 @@ export const frontend = [
     level: "Experienced",
   },
   {
-    skill: "React",
-    level: "Intermediate",
+    skill: "RxJs",
+    level: "Experienced",
   },
   {
     skill: "Bootstrap",
@@ -64,6 +64,6 @@ export const frontend = [
   },
   {
     skill: "React",
-    level: "Experienced",
+    level: "Intermediate",
   },
 ];
